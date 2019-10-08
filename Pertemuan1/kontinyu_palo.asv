@@ -8,6 +8,6 @@ xlabel('Waktu kontinyu 17101109(t)');
 ylabel('Nilai x(t)');
 title('Sinyal Kontinyu 17101109');
 
-%%%% HASIL DATA : 1. Sesuai Modul 2.Menggunakan NIM
+%%%% HASIL DATA ke-1 : 1. Sesuai Modul 2.Menggunakan NIM
 %%%% amplitudo 1 digit nim terakhir 
 %%%% sudut -genap(135-290)Derajat -ganjil(0-180)Derajat
