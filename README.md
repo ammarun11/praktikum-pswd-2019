@@ -20,6 +20,7 @@
 1. Mengapa sinyal audio harus didengarkan pada frekuensi 8000 Hz agar terddengan seperti suara aslinya?
 
 
-## Pertemuan 3 | Modul 3 : Transformasi Z dan Transformasi Fourier | Selasa,05/11/2019**
+## Pertemuan 3 | Modul 3 : Transformasi Z dan Transformasi Fourier | Selasa,25/11/2019
+
 
 > Happy Enjoy Ngoprek ~
