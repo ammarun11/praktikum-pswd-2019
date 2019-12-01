@@ -1,9 +1,9 @@
-t = [0:0.01:180]; % Plot subyal dari sudut 45 derasat sampai 135 derajat
-xt = 9*sin(2*(t*pi/180)); %{t*pi/180) berarti mengyah sudut dalam derahat menjadi radian
+t = [0:0.01:180];             % Plot subyal dari sudut 45 derasat sampai 135 derajat
+xt = 9*sin(2*(t*pi/180));     %{t*pi/180) berarti mengyah sudut dalam derahat menjadi radian
 
-figure (1); % jendela pada matlab untuk menampilkan output berubah gambar
+figure (1);                   % jendela pada matlab untuk menampilkan output berubah gambar
 
-plot (t,xt); % plot xt pada batas t
+plot (t,xt);                  % plot xt pada batas t
 xlabel('Waktu kontinyu 17101109(t)');
 ylabel('Nilai x(t)');
 title('Sinyal Kontinyu 17101109');
